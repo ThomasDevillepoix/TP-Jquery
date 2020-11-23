@@ -1,0 +1,23 @@
+#backGround {
+    display: flex;
+    justify-content:center ;
+    width: 100%;
+    height: 1200px;
+    background-size: cover;
+    background-image: url(../assets/images/mainDés.jpg);
+    background-repeat: no-repeat;
+    padding: 200px;
+
+
+   
+}
+.par{
+    color: #ffffff;
+    font-family: 'Goldman', cursive;
+    font-size: large;
+}
+.textButton{
+    color: #ffffff;
+    font-family: 'Goldman', cursive;
+    font-size: medium;
+}
